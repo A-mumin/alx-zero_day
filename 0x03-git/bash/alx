@@ -1,6 +1,6 @@
 #!/bin/bash
 <<<<<<< HEAD
-echo "HEAD ALX School is open!"
+echo "ALX School is open!"
 =======
-echo "HEAD ALX School is open!"
+echo "ALX School is open!"
 >>>>>>> update_script
